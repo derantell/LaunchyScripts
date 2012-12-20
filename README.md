@@ -47,3 +47,11 @@ Makes a string valid for use in an URL by [percent encoding](http://en.wikipedia
 	urlencode > http://en.wikipedia.org/wiki/Percent-encoding
 
 Results in the string `http%3a%2f%2fen.wikipedia.org%2fwiki%2fPercent-encoding`.
+
+## Guid
+
+Creates a new [GUID](http://en.wikipedia.org/wiki/Universally_unique_identifier) and puts in on the clipboard.
+
+	guid
+
+No arguments, just type `guid` and a fresh GUID is ready for you on the clipboard.
